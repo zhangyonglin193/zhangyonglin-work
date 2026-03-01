@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<bits/stdc++.h>
 using namespace std;
 char a[1005],b[1005];
@@ -31,3 +32,14 @@ string add(string sa,string sb)
         cout<<add(sa,sb);
         return 0;
     }
+=======
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Hello world!" << endl;
+    return 0;
+}
+>>>>>>> 44bb7da7c904336adc58cc5e3ca4c77654b3a7a1
