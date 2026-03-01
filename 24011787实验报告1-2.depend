@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1748491308 source:c:\代码\24011787实验报告1-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
